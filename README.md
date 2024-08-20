@@ -2,7 +2,7 @@
 
 Meu nome é Kauan Vinicius
 
-- Estou cursando no Alhttps://media1.tenor.com/m/VGnIKs24lbIAAAAC/bryan-gif.gifura
+- Estou cursando no Alura
 - utilizo esse espaço para a criação, organizaçãom e compartilhamento dos meus projetos
 - Estou me desenvolvendo na linguagem JavaScript
 
